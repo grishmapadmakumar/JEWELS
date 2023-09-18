@@ -1,0 +1,50 @@
+/* project.css */
+
+/* Style the body element */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e07f7f;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+/* Style the h1 element */
+h1 {
+    color: #5f0707;
+    margin-top: 20px;
+}
+
+/* Style the p element */
+p {
+    color: #000000;
+    font-size: 18px;
+}
+
+/* Style the image */
+
+
+img {
+    
+    top: 10px;
+    left: 50px;
+    max-width: 300px; 
+    max-height: 200px; 
+}
+
+button {
+    background-color: #ffcc00; /* Background color */
+    color: #333; /* Text color */
+    font-size: 20px; /* Font size */
+    padding: 10px 20px; /* Padding (top and bottom, left and right) */
+    border: none; /* Remove the default button border */
+  
+    margin-top: 20px;
+    
+    cursor: pointer; /* Add a pointer cursor on hover */
+}
+
+button:hover {
+    background-color: #680606;
+
+}
